@@ -1,0 +1,2 @@
+# estatica
+ proyecto estatica
